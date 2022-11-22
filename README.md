@@ -1,7 +1,14 @@
 ### Olá! Eu sou a Ana Eulalia
 
-- 🌱 Estou estudando JavaScript
-- 😄 Pronouns: Ela/dela
+-🔭 Atualmente trabalho como Digitadora.
+
+-🌱 Estou cursando informática para internet - (IFRN).
+
+-🌱 Estou estudando um curso de introdução a programação da Proz Educação (Portal Tech) em parceria com AWS e META.
+
+-⚡ Em transição de carreira para Desenvolvedora Front-end
+
+ -😄 Pronouns: Ela/dela
 
 <div align="center">
   <a href="https://github.com/AnaEulalia">
