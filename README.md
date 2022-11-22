@@ -1,7 +1,7 @@
 ### Olá! Eus sou a Ana Eulalia
 
-- 🌱 I’m currently learning ...
-- 😄 Pronouns: ...
+- 🌱 Estou estudando JavaScript
+- 😄 Pronouns: Ela/dela
 
 <div align="center">
   <a href="https://github.com/AnaEulalia">
