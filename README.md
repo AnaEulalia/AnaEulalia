@@ -1,4 +1,4 @@
-### Olá! Eus sou a Ana Eulalia
+### Olá! Eu sou a Ana Eulalia
 
 - 🌱 Estou estudando JavaScript
 - 😄 Pronouns: Ela/dela
