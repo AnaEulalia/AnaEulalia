@@ -6,7 +6,7 @@
 
 -🌱 Estou estudando um curso de introdução a programação da Proz Educação (Portal Tech) em parceria com AWS e META.
 
--⚡ Em transição de carreira para Desenvolvedora Front-end
+-⚡ Em transição de carreira para Desenvolvedora Front-end.
 
  -😄 Pronouns: Ela/dela
 
@@ -21,7 +21,8 @@
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
- ##
+ 
+ ###
  
 <div> 
  
