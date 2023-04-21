@@ -4,7 +4,6 @@
 
 -🌱 Estou cursando informática para internet - (IFRN).
 
--🌱 Estou estudando um curso de introdução a programação da Proz Educação (Portal Tech) em parceria com AWS e META.
 
 -⚡ Em transição de carreira para Desenvolvedora Front-end.
 
