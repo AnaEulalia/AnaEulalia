@@ -1,4 +1,4 @@
-### Olá! Eu sou a Ana Eulalia
+### Olá! Seja bem vindo(a), sou a Ana Eulalia 🥰
 
 -🔭  Digitadora.
 
@@ -20,7 +20,7 @@
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Ana-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
           <img align="center" alt="Ana-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    <img align="center" alt="Ana-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />         
+       
 </div>
 
 <div style="display: inline_block"><br ">
@@ -34,7 +34,6 @@
 <div> 
  
   <a href="https://instagram.com/AnaEulalia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ana-eulalia-1613a6255/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/AnaEulalia/AnaEulalia/blob/output/github-contribution-grid-snake.svg)
