@@ -1,13 +1,13 @@
-### Olá! Seja bem vindo(a), sou a Ana Eulalia 🥰
+### Hello! Welcome, I'm Ana Eulalia   
 
--🔭  Digitadora.
+-🔭 Typist.
 
--🌱 Estou cursando informática para internet - (IFRN).
+-🌱 I'm studying computer science for the internet - (IFRN).
 
 
--⚡ Em transição de carreira para Desenvolvedora Front-end.
+-⚡ In career transition to Front-end Developer.
 
- -😄 Pronouns: Ela/dela
+ -😄 Pronouns: She/her
  
  <h3>💻 Languages and Tools:</h3>
 <div align="center">
