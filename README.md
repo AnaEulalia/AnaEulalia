@@ -2,7 +2,7 @@
 
 -🔭 Typist.
 
--🌱 I'm studying computer science for the internet - (IFRN).
+-🌱 I'm studying internet systems - (IFRN).
 
 
 -⚡ In career transition to Front-end Developer.
